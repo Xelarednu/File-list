@@ -9,7 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f5b29d4-e682-4aa6-a0dd-f1955b258ded" name="Changes" comment="" />
+    <list default="true" id="4f5b29d4-e682-4aa6-a0dd-f1955b258ded" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FileList_jar/FileList.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FileList_jar/FileList.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +40,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "X:/JavaProjects/FileList/src/main/resources",
+    "last_opened_file_path": "X:/Programming projects/JavaProjects/FileList",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,7 +49,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,11 +70,29 @@
       <option name="presentableId" value="Default" />
       <updated>1731098494868</updated>
       <workItem from="1731098495910" duration="3723000" />
-      <workItem from="1731160079604" duration="10131000" />
+      <workItem from="1731160079604" duration="11025000" />
+      <workItem from="1734284246229" duration="12000" />
+      <workItem from="1739022705813" duration="160000" />
+      <workItem from="1739022876245" duration="8375000" />
+      <workItem from="1739298546037" duration="3611000" />
+      <workItem from="1739372180293" duration="1141000" />
+      <workItem from="1739375165985" duration="3076000" />
+      <workItem from="1739393976546" duration="939000" />
+      <workItem from="1739395015638" duration="2979000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
