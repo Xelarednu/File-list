@@ -20,6 +20,10 @@ public class Main {
             int dotCounter;
 
             for (int i = 0; i < files.length; i++) {
+                if (files[i].isHidden()) {
+                    continue;
+                }
+
                 String fileName = files[i].getName();
                 dotCounter = 0;
 
@@ -35,10 +39,9 @@ public class Main {
                     if (k == 0 && fileName.charAt(k) == '.') {
                         fileNamesBuilder.append(fileName);
                     }
-
                 }
 
-                if (dotCounter == 1) {
+                if (dotCounter == 1 || dotCounter == 0) {
                     fileNamesBuilder.append(fileName.split("\\.")[0]).append("\n");
                 } else if (dotCounter > 1) {
                     for (int j = 0; j < fileName.length(); j++) {
